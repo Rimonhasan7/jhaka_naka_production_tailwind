@@ -1,0 +1,48 @@
+Task Requirements
+
+Jhaka Naka is a movie production house and you have to build a landing page. Requirements are written below.
+
+Navbar
+
+The navbar should have two parts. Company logo on the left side and 3 options on the right side. The options will be:
+About us
+Our Movies
+Services 
+
+Landing section
+
+The landing section should have a background image filling the whole section. On the right side of the section, there should be a heading, a small paragraph, and a button.
+
+About us section
+
+In the about us section, there should be a box containing the whole content. Inside the box, there will be an image on the left side and a heading, a small paragraph, and a button on the right side. 
+
+There will be 3 sections for our vision, mission, and motto below the image. These sections must be in a single row in large devices and 3 rows with full width in mobile devices.
+
+Our movies section
+
+This section should contain a header and button. Below that there should be 4 movie posters in a single row for large devices, 2 rows and 2 columns in tablet, and 4 rows and 1 column for mobile devices.
+
+***Optional***
+
+On hover, the image should get dimmer and the movie name should appear in the center.
+
+Services section
+
+There should be a header. Below the header, there should be 8 cards containing an icon, title, and a short description of the service.  
+
+
+Cards should be laid out in the order mentioned below. 
+
+For large screen - 2 rows 4 column
+For Tablet - 4 rows 2 column
+For mobile - 8 rows 1 column
+
+Footer
+
+The footer should contain the company name, a small paragraph, and copyright information in the center of the section.
+
+
+For better understanding please visit the figma link below:
+
+tips: 
